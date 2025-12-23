@@ -1,2 +1,1 @@
-# Weatherapp
-Simple Weather app using HTML,CSS, and JavaScript
+portfolio  using HTML,CSS, and JavaScript
